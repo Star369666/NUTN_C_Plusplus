@@ -1,0 +1,7 @@
+﻿  End1.cpp
+C:\Users\USER\OneDrive\桌面\NUTN Cplusplus\CplusEndHWProject1\End1.cpp(19,34): warning C4101: 'height': 未參考的區域變數
+C:\Users\USER\OneDrive\桌面\NUTN Cplusplus\CplusEndHWProject1\End1.cpp(19,14): warning C4101: 'side': 未參考的區域變數
+C:\Users\USER\OneDrive\桌面\NUTN Cplusplus\CplusEndHWProject1\End1.cpp(19,9): warning C4101: 'rad': 未參考的區域變數
+C:\Users\USER\OneDrive\桌面\NUTN Cplusplus\CplusEndHWProject1\End1.cpp(19,27): warning C4101: 'lside': 未參考的區域變數
+C:\Users\USER\OneDrive\桌面\NUTN Cplusplus\CplusEndHWProject1\End1.cpp(19,20): warning C4101: 'hside': 未參考的區域變數
+  CplusEndHWProject1.vcxproj -> C:\Users\USER\OneDrive\桌面\NUTN Cplusplus\CplusEndHWProject1\Debug\CplusEndHWProject1.exe
